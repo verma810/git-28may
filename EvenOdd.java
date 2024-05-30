@@ -10,7 +10,7 @@ public class EvenOdd {
  
             // If remainder is zero then this number is even
             System.out.println("Entered Number is Even");
-             System.out.println("Wipro");
+             System.out.println("Wipro 30");
         }
  
         else {
